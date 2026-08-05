@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elvio1980
 - 👀 I’m interested in learning and develop solutions to help the people and to create a better world. 
-- 🌱 I’m currently learning SQL and Python.
+- 🌱 I’m currently student of SQL and Python.
 - 💞️ I’m looking to collaborate on Univesp Integrator project and working for communities solutions. 
 - 📫 How to reach me: send me email elvioarjr@hotmail.com or call me on Instagram Rodrigues.Elvio.
 
